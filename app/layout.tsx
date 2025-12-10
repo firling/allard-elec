@@ -7,6 +7,10 @@ export const metadata: Metadata = {
   title: 'Allard Elec - Électricien en Haute-Savoie',
   description: 'Électricien professionnel en Haute-Savoie. Spécialiste en électricité, domotique, aspiration centralisée et automatisation. Intervention à Annecy et Rumilly.',
   keywords: ['électricien', 'Haute-Savoie', 'Annecy', 'Rumilly', 'domotique', 'aspiration centralisée', 'automatisation'],
+  icons: {
+    icon: '/images/logo_allard_elec.png',
+    apple: '/images/logo_allard_elec.png',
+  },
 };
 
 export default function RootLayout({
